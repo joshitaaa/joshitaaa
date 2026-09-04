@@ -4,15 +4,13 @@
 
 </div>
 
-I build things and then find AI to make them better.
-
-```ansi
-[1;32m>[0m [1;37mwhoami[0m
-[0;36mSoftware engineer · Singapore · fintech & regtech[0m
-[1;32m>[0m [1;37mcurrently[0m
-[0;36mJob search copilot (built with Hermes) · website revamp for an SME client[0m
-[1;32m>[0m [1;37mstudying[0m
-[0;36mMIT in Business, Fintech & Analytics @ SMU · BSc Computer Science (AI & Cyber Physical Systems)[0m
+```diff
++ > whoami
+Software engineer · Singapore
++ > currently
+Job search copilot (built with Hermes) · website revamp for an SME client
++ > studying
+Master of IT in Business (Fintech & Analytics) @ SMU · BSc Computer Science (AI & Cyber Physical Systems) @ SMU
 ```
 
 I spend most of my time shipping full-stack products and finding places to wire LLMs into workflows where they could add value. Right now that means building some tools for personal productivity and breaking things on the side for fun.
